@@ -11,5 +11,6 @@ public class MainApp {
         System.out.println((int)number + " nie jest liczbą pierwszą");
     }
         System.out.println("Silnia liczby " + (int)number + " to: "+Factorial.factorial((int)number));
-}
+        mainApp();
+    }
 }
