@@ -9,5 +9,6 @@ public class Main {
         } else {
             System.out.println((int)number + " nie jest liczbą pierwszą");
         }
+        System.out.println(Factorial.factorial((int)number));
     }
 }
