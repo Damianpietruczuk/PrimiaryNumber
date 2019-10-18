@@ -1,6 +1,6 @@
 public class Factorial {
 
-    public int fiveFactorial() {
+    public static int fiveFactorial() {
         return 1 * 2 * 3 * 4 * 5;
     }
 
