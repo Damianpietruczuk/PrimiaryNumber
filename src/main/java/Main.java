@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Zmiany123");
+        System.out.println("Zmiany1234");
         Scanner sc = new Scanner(System.in);
         double number = sc.nextInt();
         if(IsPrimary.isPrimary(number)){
